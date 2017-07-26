@@ -1,0 +1,77 @@
+[05-Apr-2017 05:01:43 UTC] PHP Notice:  Undefined index: name in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 9
+[05-Apr-2017 05:01:43 UTC] PHP Notice:  Undefined index: description in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 10
+[05-Apr-2017 05:01:43 UTC] PHP Warning:  include(database/_mysql_credentials.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 94
+[05-Apr-2017 05:01:43 UTC] PHP Warning:  include(): Failed opening 'database/_mysql_credentials.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 94
+[05-Apr-2017 05:01:43 UTC] PHP Warning:  include(database/database_settings.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 95
+[05-Apr-2017 05:01:43 UTC] PHP Warning:  include(): Failed opening 'database/database_settings.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 95
+[05-Apr-2017 05:01:43 UTC] PHP Notice:  Undefined variable: host in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 96
+[05-Apr-2017 05:01:43 UTC] PHP Notice:  Undefined variable: dbname in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 96
+[05-Apr-2017 05:01:43 UTC] PHP Notice:  Undefined variable: user in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 100
+[05-Apr-2017 05:01:43 UTC] PHP Notice:  Undefined variable: pwd in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 100
+[05-Apr-2017 05:01:43 UTC] PHP Fatal error:  Call to a member function prepare() on boolean in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 122
+[05-Apr-2017 05:05:16 UTC] PHP Notice:  Undefined index: merchant_name in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 9
+[05-Apr-2017 05:05:16 UTC] PHP Notice:  Undefined index: merchant_description in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 10
+[05-Apr-2017 05:05:16 UTC] PHP Warning:  include(database/_mysql_credentials.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 94
+[05-Apr-2017 05:05:16 UTC] PHP Warning:  include(): Failed opening 'database/_mysql_credentials.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 94
+[05-Apr-2017 05:05:16 UTC] PHP Warning:  include(database/database_settings.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 95
+[05-Apr-2017 05:05:16 UTC] PHP Warning:  include(): Failed opening 'database/database_settings.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 95
+[05-Apr-2017 05:05:16 UTC] PHP Notice:  Undefined variable: host in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 96
+[05-Apr-2017 05:05:16 UTC] PHP Notice:  Undefined variable: dbname in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 96
+[05-Apr-2017 05:05:16 UTC] PHP Notice:  Undefined variable: user in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 100
+[05-Apr-2017 05:05:16 UTC] PHP Notice:  Undefined variable: pwd in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 100
+[05-Apr-2017 05:05:16 UTC] PHP Fatal error:  Call to a member function prepare() on boolean in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 122
+[05-Apr-2017 05:10:10 UTC] PHP Notice:  Undefined index: merchant_name in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 9
+[05-Apr-2017 05:10:10 UTC] PHP Notice:  Undefined index: merchant_description in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 10
+[05-Apr-2017 05:10:10 UTC] PHP Warning:  include(database/_mysql_credentials.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 94
+[05-Apr-2017 05:10:10 UTC] PHP Warning:  include(): Failed opening 'database/_mysql_credentials.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 94
+[05-Apr-2017 05:10:10 UTC] PHP Warning:  include(database/database_settings.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 95
+[05-Apr-2017 05:10:10 UTC] PHP Warning:  include(): Failed opening 'database/database_settings.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 95
+[05-Apr-2017 05:10:10 UTC] PHP Notice:  Undefined variable: host in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 96
+[05-Apr-2017 05:10:10 UTC] PHP Notice:  Undefined variable: dbname in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 96
+[05-Apr-2017 05:10:10 UTC] PHP Notice:  Undefined variable: user in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 100
+[05-Apr-2017 05:10:10 UTC] PHP Notice:  Undefined variable: pwd in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 100
+[05-Apr-2017 05:10:10 UTC] PHP Fatal error:  Call to a member function prepare() on boolean in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 122
+[05-Apr-2017 05:10:45 UTC] PHP Warning:  include(database/_mysql_credentials.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 94
+[05-Apr-2017 05:10:45 UTC] PHP Warning:  include(): Failed opening 'database/_mysql_credentials.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 94
+[05-Apr-2017 05:10:45 UTC] PHP Warning:  include(database/database_settings.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 95
+[05-Apr-2017 05:10:45 UTC] PHP Warning:  include(): Failed opening 'database/database_settings.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 95
+[05-Apr-2017 05:10:45 UTC] PHP Notice:  Undefined variable: host in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 96
+[05-Apr-2017 05:10:45 UTC] PHP Notice:  Undefined variable: dbname in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 96
+[05-Apr-2017 05:10:45 UTC] PHP Notice:  Undefined variable: user in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 100
+[05-Apr-2017 05:10:45 UTC] PHP Notice:  Undefined variable: pwd in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 100
+[05-Apr-2017 05:10:45 UTC] PHP Fatal error:  Call to a member function prepare() on boolean in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 122
+[13-Apr-2017 05:29:24 UTC] PHP Warning:  include(includes/treeview_prep.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 3
+[13-Apr-2017 05:29:24 UTC] PHP Warning:  include(): Failed opening 'includes/treeview_prep.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 3
+[13-Apr-2017 05:29:24 UTC] PHP Warning:  include(includes/check_room_information.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 4
+[13-Apr-2017 05:29:24 UTC] PHP Warning:  include(): Failed opening 'includes/check_room_information.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 4
+[13-Apr-2017 05:29:24 UTC] PHP Notice:  Undefined variable: room_types in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 29
+[13-Apr-2017 05:29:24 UTC] PHP Notice:  Undefined variable: room_item_classes in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 62
+[13-Apr-2017 05:29:24 UTC] PHP Notice:  Undefined variable: room_items in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 95
+[13-Apr-2017 05:29:24 UTC] PHP Notice:  Undefined variable: room_items in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 102
+[13-Apr-2017 05:30:50 UTC] PHP Warning:  include(includes/treeview_prep.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 3
+[13-Apr-2017 05:30:50 UTC] PHP Warning:  include(): Failed opening 'includes/treeview_prep.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 3
+[13-Apr-2017 05:30:50 UTC] PHP Warning:  include(includes/check_room_information.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 4
+[13-Apr-2017 05:30:50 UTC] PHP Warning:  include(): Failed opening 'includes/check_room_information.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 4
+[13-Apr-2017 05:30:50 UTC] PHP Notice:  Undefined variable: room_types in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 29
+[13-Apr-2017 05:30:50 UTC] PHP Notice:  Undefined variable: room_item_classes in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 62
+[13-Apr-2017 05:30:50 UTC] PHP Notice:  Undefined variable: room_items in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 95
+[13-Apr-2017 05:30:50 UTC] PHP Notice:  Undefined variable: room_items in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 102
+[13-Apr-2017 05:32:08 UTC] PHP Fatal error:  Call to undefined function add_item_type() in /home/starp0wer/public_html/admin/esastar/actions/item_type_add.php on line 9
+[13-Apr-2017 05:32:08 UTC] PHP Warning:  include(includes/treeview_prep.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 3
+[13-Apr-2017 05:32:08 UTC] PHP Warning:  include(): Failed opening 'includes/treeview_prep.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 3
+[13-Apr-2017 05:32:08 UTC] PHP Warning:  include(includes/check_room_information.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 4
+[13-Apr-2017 05:32:08 UTC] PHP Warning:  include(): Failed opening 'includes/check_room_information.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 4
+[13-Apr-2017 05:32:08 UTC] PHP Notice:  Undefined variable: room_types in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 29
+[13-Apr-2017 05:32:08 UTC] PHP Notice:  Undefined variable: room_item_classes in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 62
+[13-Apr-2017 05:32:08 UTC] PHP Notice:  Undefined variable: room_items in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 95
+[13-Apr-2017 05:32:08 UTC] PHP Notice:  Undefined variable: room_items in /home/starp0wer/public_html/admin/esastar/actions/show_room_classification.php on line 102
+[13-Apr-2017 05:49:37 UTC] PHP Fatal error:  Call to undefined function add_item_type() in /home/starp0wer/public_html/admin/esastar/actions/item_type_add.php on line 9
+[13-Apr-2017 05:52:46 UTC] PHP Fatal error:  Call to undefined function add_item_type() in /home/starp0wer/public_html/admin/esastar/actions/item_type_add.php on line 9
+[14-Apr-2017 02:09:22 UTC] PHP Fatal error:  Call to undefined function add_item_type() in /home/starp0wer/public_html/admin/esastar/actions/item_type_add.php on line 9
+[14-Apr-2017 02:14:35 UTC] PHP Notice:  Undefined variable: params in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 257
+[14-Apr-2017 02:47:31 UTC] PHP Notice:  Undefined variable: params in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 286
+[14-Apr-2017 02:51:50 UTC] PHP Notice:  Undefined variable: params in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 286
+[14-Apr-2017 03:02:26 UTC] PHP Notice:  Undefined variable: params in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 286
+[14-Apr-2017 03:08:53 UTC] PHP Notice:  Undefined variable: params in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 286
+[14-Apr-2017 03:12:55 UTC] PHP Notice:  Undefined variable: params in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 286
+[14-Apr-2017 03:15:41 UTC] PHP Notice:  Undefined variable: params in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 286

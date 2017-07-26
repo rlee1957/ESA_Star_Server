@@ -1,0 +1,42 @@
+[05-Apr-2017 04:54:12 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 117
+[05-Apr-2017 04:56:31 UTC] PHP Fatal error:  Call to a member function prepare() on boolean in /home/starp0wer/public_html/admin/esastar/database/sql_functions.php on line 64
+[09-Apr-2017 05:04:25 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 498
+[09-Apr-2017 05:05:56 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 557
+[09-Apr-2017 05:06:51 UTC] PHP Fatal error:  Cannot redeclare get_class() in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 581
+[09-Apr-2017 05:12:07 UTC] PHP Warning:  Missing argument 2 for get_rooms_title(), called in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 378 and defined in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 616
+[09-Apr-2017 05:12:07 UTC] PHP Notice:  Undefined variable: row in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 621
+[09-Apr-2017 05:12:07 UTC] PHP Notice:  Undefined variable: path in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 622
+[09-Apr-2017 05:12:07 UTC] PHP Notice:  Undefined offset: 0 in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 623
+[09-Apr-2017 05:12:07 UTC] PHP Warning:  include(includes/control_merchant_rooms.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/merchant_rooms.php on line 28
+[09-Apr-2017 05:12:07 UTC] PHP Warning:  include(): Failed opening 'includes/control_merchant_rooms.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/merchant_rooms.php on line 28
+[09-Apr-2017 05:17:05 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 621
+[09-Apr-2017 05:17:52 UTC] PHP Warning:  include(includes/control_merchant_rooms.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/merchant_rooms.php on line 28
+[09-Apr-2017 05:17:52 UTC] PHP Warning:  include(): Failed opening 'includes/control_merchant_rooms.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/merchant_rooms.php on line 28
+[11-Apr-2017 00:13:29 UTC] PHP Notice:  Undefined index: merchant_id in /home/starp0wer/public_html/admin/esastar/merchant_rooms.php on line 5
+[11-Apr-2017 00:13:29 UTC] PHP Notice:  Undefined offset: 0 in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 623
+[11-Apr-2017 00:13:29 UTC] PHP Warning:  include(includes/control_merchant_rooms.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/merchant_rooms.php on line 28
+[11-Apr-2017 00:13:29 UTC] PHP Warning:  include(): Failed opening 'includes/control_merchant_rooms.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/merchant_rooms.php on line 28
+[11-Apr-2017 00:13:57 UTC] PHP Warning:  include(includes/control_merchant_rooms.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/merchant_rooms.php on line 28
+[11-Apr-2017 00:13:57 UTC] PHP Warning:  include(): Failed opening 'includes/control_merchant_rooms.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/merchant_rooms.php on line 28
+[12-Apr-2017 02:22:03 UTC] PHP Warning:  include(includes/check_room_information.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/merchant_rooms.php on line 6
+[12-Apr-2017 02:22:03 UTC] PHP Warning:  include(): Failed opening 'includes/check_room_information.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/merchant_rooms.php on line 6
+[12-Apr-2017 02:22:03 UTC] PHP Notice:  Undefined variable: show_administration in /home/starp0wer/public_html/admin/esastar/merchant_rooms.php on line 8
+[12-Apr-2017 02:22:03 UTC] PHP Warning:  include(includes/control_merchant_rooms.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/includes/mr_main.php on line 18
+[12-Apr-2017 02:22:03 UTC] PHP Warning:  include(): Failed opening 'includes/control_merchant_rooms.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/includes/mr_main.php on line 18
+[12-Apr-2017 02:22:03 UTC] PHP Notice:  Undefined variable: room_types in /home/starp0wer/public_html/admin/esastar/includes/other_merchant_rooms.php on line 2
+[12-Apr-2017 02:22:03 UTC] PHP Notice:  Undefined variable: room_item_classes in /home/starp0wer/public_html/admin/esastar/includes/other_merchant_rooms.php on line 4
+[12-Apr-2017 02:22:03 UTC] PHP Notice:  Undefined variable: room_items in /home/starp0wer/public_html/admin/esastar/includes/other_merchant_rooms.php on line 6
+[12-Apr-2017 02:24:07 UTC] PHP Notice:  Undefined variable: path in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 634
+[12-Apr-2017 02:24:07 UTC] PHP Notice:  Undefined variable: path in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 667
+[12-Apr-2017 02:24:07 UTC] PHP Notice:  Undefined variable: path in /home/starp0wer/public_html/admin/esastar/functions/tree_functions.php on line 657
+[14-Apr-2017 02:32:52 UTC] PHP Notice:  Undefined variable: show in /home/starp0wer/public_html/admin/esastar/includes/admin_rooms.php on line 112
+[14-Apr-2017 02:35:46 UTC] PHP Notice:  Undefined variable: show in /home/starp0wer/public_html/admin/esastar/includes/admin_rooms.php on line 112
+[14-Apr-2017 02:42:23 UTC] PHP Notice:  Undefined variable: show in /home/starp0wer/public_html/admin/esastar/includes/admin_rooms.php on line 112
+[14-Apr-2017 02:45:18 UTC] PHP Notice:  Undefined variable: show in /home/starp0wer/public_html/admin/esastar/includes/admin_rooms.php on line 112
+[14-Apr-2017 02:46:51 UTC] PHP Notice:  Undefined variable: show in /home/starp0wer/public_html/admin/esastar/includes/admin_rooms.php on line 112
+[14-Apr-2017 04:09:22 UTC] PHP Warning:  include(includes/control_merchant_rooms.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/includes/mr_main.php on line 18
+[14-Apr-2017 04:09:22 UTC] PHP Warning:  include(): Failed opening 'includes/control_merchant_rooms.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/includes/mr_main.php on line 18
+[08-Jul-2017 18:27:03 UTC] PHP Warning:  include(/home/starp0wer/public_html//framework/_start_session.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/includes/login.php on line 4
+[08-Jul-2017 18:27:03 UTC] PHP Warning:  include(): Failed opening '/home/starp0wer/public_html//framework/_start_session.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/includes/login.php on line 4
+[08-Jul-2017 18:28:55 UTC] PHP Warning:  include(/home/starp0wer/public_html/framework/_start_session.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/admin/esastar/includes/login.php on line 4
+[08-Jul-2017 18:28:55 UTC] PHP Warning:  include(): Failed opening '/home/starp0wer/public_html/framework/_start_session.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/admin/esastar/includes/login.php on line 4

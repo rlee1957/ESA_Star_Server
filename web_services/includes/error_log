@@ -1,0 +1,55 @@
+[12-May-2017 01:46:35 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 6
+[12-May-2017 01:46:35 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[12-May-2017 04:51:46 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[12-May-2017 04:51:46 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[12-May-2017 04:52:40 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[12-May-2017 04:52:40 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[12-May-2017 04:52:40 UTC] PHP Fatal error:  Call to undefined function sql_shell() in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 23
+[12-May-2017 04:54:54 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[12-May-2017 04:54:54 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[12-May-2017 04:54:54 UTC] PHP Fatal error:  Call to undefined function sql_shell() in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 23
+[12-May-2017 04:55:53 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[12-May-2017 04:55:53 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[12-May-2017 04:57:10 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[12-May-2017 04:57:10 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[12-May-2017 04:57:10 UTC] PHP Fatal error:  Call to undefined function sql_shell() in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 23
+[12-May-2017 05:00:11 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[12-May-2017 05:00:11 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[12-May-2017 05:00:11 UTC] PHP Fatal error:  Call to undefined function sql_shell() in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 24
+[13-May-2017 04:09:58 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[13-May-2017 04:09:58 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[13-May-2017 04:09:58 UTC] PHP Fatal error:  Call to undefined function sql_shell() in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 24
+[13-May-2017 04:12:09 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[13-May-2017 04:12:09 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[13-May-2017 04:12:09 UTC] PHP Fatal error:  Call to undefined function sql_shell() in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 24
+[13-May-2017 04:17:10 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[13-May-2017 04:17:10 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[13-May-2017 04:18:56 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[13-May-2017 04:18:56 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[13-May-2017 04:19:43 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[13-May-2017 04:19:43 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[13-May-2017 04:19:43 UTC] PHP Fatal error:  Call to undefined function sql_shell() in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 26
+[13-May-2017 04:23:47 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[13-May-2017 04:23:47 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[13-May-2017 04:23:47 UTC] PHP Fatal error:  Call to undefined function sql_shell() in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 26
+[13-May-2017 04:25:39 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[13-May-2017 04:25:39 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[13-May-2017 04:25:39 UTC] PHP Fatal error:  Call to undefined function sql_shell() in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 26
+[13-May-2017 04:40:22 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[13-May-2017 04:40:22 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[13-May-2017 04:40:22 UTC] PHP Fatal error:  Call to undefined function sql_shell() in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 26
+[13-May-2017 04:40:40 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[13-May-2017 04:40:40 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[13-May-2017 04:40:40 UTC] PHP Fatal error:  Call to undefined function sql_shell() in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 26
+[13-May-2017 04:41:13 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[13-May-2017 04:41:13 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[13-May-2017 04:41:13 UTC] PHP Fatal error:  Call to undefined function sql_shell() in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 26
+[13-May-2017 04:42:50 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 8
+[13-May-2017 04:42:50 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[13-May-2017 04:42:50 UTC] PHP Fatal error:  Call to undefined function sql_shell() in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 26
+[13-May-2017 04:48:09 UTC] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 10
+[13-May-2017 04:48:09 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 12
+[13-May-2017 04:48:09 UTC] PHP Fatal error:  Call to undefined function sql_shell() in /home/starp0wer/public_html/web_services/includes/get_device_id.php on line 28
+[13-May-2017 05:18:50 UTC] PHP Fatal error:  Cannot redeclare get_error_array() (previously declared in /home/starp0wer/public_html/web_services/database/sql_functions.php:3) in /home/starp0wer/public_html/web_services/database/sql_functions.php on line 12
+[13-May-2017 05:38:01 UTC] PHP Warning:  include(../includes/get_device_id.php): failed to open stream: No such file or directory in /home/starp0wer/public_html/web_services/includes/security2.php on line 14
+[13-May-2017 05:38:01 UTC] PHP Warning:  include(): Failed opening '../includes/get_device_id.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/starp0wer/public_html/web_services/includes/security2.php on line 14

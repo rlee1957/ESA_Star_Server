@@ -1,0 +1,24 @@
+.sheet
+{
+position: fixed;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+background-image: url("../images/esastar00.png");
+background-size: 100% auto;
+background-repeat: no-repeat;
+}
+
+.explain
+{
+position: fixed;
+top: 0;
+width: 25%;
+bottom: 0;
+right: 0;
+font-size: 3vw;
+background-color: transparent;
+font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+color: #AC8A32;
+}

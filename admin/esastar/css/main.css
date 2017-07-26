@@ -1,0 +1,69 @@
+.head
+{
+position: fixed;
+top: 0;
+right: 0;
+height: 99px;
+left: 0;
+background-color: #fffdf4;
+}
+
+.title
+{
+position: fixed;
+top: 100px;
+right: 0;
+height: 39px;
+left: 0;
+background-color: #fff8f4;
+}
+
+.content
+{
+position: fixed;
+top: 140px;
+width: 50%;
+bottom: 100px;
+left: 0;
+background-color: #fffdf4;
+}
+
+.actions
+{
+position: fixed;
+top: 140px;
+width: 50%;
+bottom: 100px;
+right: 0;
+background-color: #f4fff6;
+}
+
+.foot
+{
+position: fixed;
+height: 99px;
+left: 0;
+right: 0;
+bottom: 0;
+background-color: #f4f8ff;
+}
+
+.blanket
+{
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+background-color: #000000;	
+}
+
+.popup
+{
+position: fixed;
+top: 150px;
+left: 250px;
+right: 250px;
+bottom: 150px;
+background-color: #ffffff;	
+}
